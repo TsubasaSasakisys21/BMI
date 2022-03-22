@@ -8,6 +8,6 @@ public class Main {
 		double tai=sc.nextInt();
 		double BMI=tai/(sin*sin);
 		System.out.println("your BMI is"+BMI);
-		System.out.println(BMI);
+		System.out.println("your BMI is"+BMI);
 	}
 }
